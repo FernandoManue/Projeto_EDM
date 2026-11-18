@@ -25,16 +25,6 @@ Este projecto é um protótipo independente para o trabalho de campo de Tecnolog
 - Persistência das alterações com `localStorage`.
 - Mensagens de estado, rótulos acessíveis, foco de teclado e respeito por `prefers-reduced-motion`.
 
-## Testes manuais recomendados antes da entrega
-1. Abrir a página em computador e telemóvel ou modo responsivo do navegador.
-2. Pesquisar por “Credelec”, “avaria” e “ligação”.
-3. Filtrar pela categoria “Pagamento”.
-4. Ordenar por nome A–Z e Z–A.
-5. Adicionar um serviço, actualizar a página e confirmar que permanece.
-6. Remover um serviço, actualizar a página e confirmar a persistência.
-7. Limpar filtros e testar navegação com teclado.
-8. Confirmar os links para o portal oficial e o contacto 1455.
-
 ## Fontes institucionais de referência
 - Portal institucional: https://www.edm.co.mz/
 - Portal do Cliente: https://www.edm.co.mz/portal-cliente/inicio

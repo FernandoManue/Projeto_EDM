@@ -137,8 +137,7 @@ document.getElementById('serviceForm').addEventListener('submit',event=>{
   if(!name||!description)return;
   const id=`custom-${Date.now()}`;
   services.push({
-    id,name,category,description,url:'https://www.edm.co.mz/portal-cliente/inicio',icon:'✦'
-  });
+    id,name,category,description,url:'https://www.edm.co.mz/portal-cliente/inicio',icon:'✦'});
   saveServices();
   event.target.reset();
   resetFilters();
